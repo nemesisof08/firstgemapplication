@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in firstgemapp.gemspec
+# Specify your gem's dependencies in firstgemapplication.gemspec
 gemspec

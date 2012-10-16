@@ -1,3 +1,3 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require File.expand_path('../../lib/firstgemapp.rb',__FILE__)
+require File.expand_path('../../lib/firstgemapplication.rb',__FILE__)
