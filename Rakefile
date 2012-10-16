@@ -1,3 +1,4 @@
+# This is an awesome Rakefile
 require "bundler/gem_tasks"
 require 'rake/testtask'
 Rake::TestTask.new do|t|
